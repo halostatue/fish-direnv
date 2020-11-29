@@ -10,7 +10,11 @@ into fish configuration.
 Install with [Fisher][] (recommended):
 
 ```fish
+# Fisher 3.x
 fisher add halostatue/fish-direnv
+
+# Fisher 4.0+
+fisher install halostatue/fish-direnv
 ```
 
 <details>
