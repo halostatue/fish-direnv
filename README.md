@@ -1,14 +1,13 @@
 # halostatue/fish-direnv
 
-A quick plugin for [fish shell][] to ensure that [direnv][] is properly hooked
+A quick plugin for [fish shell] to ensure that [direnv] is properly hooked
 into fish configuration.
 
 ## Installation
 
-Install with [Fisher][] (recommended):
+Install with [Fisher] (recommended):
 
 ```fish
-# Fisher 4.0+
 fisher install halostatue/fish-direnv@1.x
 ```
 
@@ -19,18 +18,19 @@ fisher install halostatue/fish-direnv@1.x
 
 Copy `conf.d/*.fish` to your fish configuration directory preserving the
 directory structure.
+
 </details>
 
 ### System Requirements
 
-- [fish][] 3.0+
-- [direnv][]
+- [fish] 3.0+
+- [direnv]
 
-## License
+## Licence
 
 [MIT](LICENCE.md)
 
-[fish shell]: https://fishshell.com "friendly interactive shell"
+[fish shell]: https://fishshell.com 'friendly interactive shell'
 [direnv]: http://direnv.net
-[Fisher]: https://github.com/jorgebucaran/fisher
+[fisher]: https://github.com/jorgebucaran/fisher
 [fish]: https://github.com/fish-shell/fish-shell
