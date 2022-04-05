@@ -1,4 +1,4 @@
-if not functions -q __direnv_export_eval; and command -sq direnv
+if command -sq direnv && not functions -q __direnv_export_eval
     direnv hook fish | source
 end
 

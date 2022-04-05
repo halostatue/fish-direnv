@@ -1,5 +1,10 @@
 # fish-direnv Changelog
 
+## 1.0.5 / 2022-04-04
+
+- Reverse a logic test to check for the existence of `direnv` before checking
+  the presence of the `direnv` hook function.
+
 ## 1.0.4 / 2021-04-15
 
 - Update installation instructions for Fisher 4; removed Fisher 3 installation
