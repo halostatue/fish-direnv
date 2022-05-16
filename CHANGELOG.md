@@ -1,5 +1,10 @@
 # fish-direnv Changelog
 
+## 1.0.6 / 2022-05-16
+
+- `direnv` is only intended to be used in an interactive shell. Stop loading
+  `direnv` when non-interactive.
+
 ## 1.0.5 / 2022-04-04
 
 - Reverse a logic test to check for the existence of `direnv` before checking
