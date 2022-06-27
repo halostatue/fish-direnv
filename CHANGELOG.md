@@ -1,5 +1,12 @@
 # fish-direnv Changelog
 
+## 1.1.0 / 2022-06-26
+
+- Added completions for `direnv` public commands. Note that `direnv exec` will
+  only complete directories after the subcommand, so the command that will be
+  executed must be typed in. Contributions to improve the completion here will
+  be much appreciated.
+
 ## 1.0.6 / 2022-05-16
 
 - `direnv` is only intended to be used in an interactive shell. Stop loading
