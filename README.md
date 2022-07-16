@@ -15,7 +15,7 @@ into fish configuration.
 Install with [Fisher][]:
 
 ```fish
-fisher install halostatue/fish-direnv@1.x
+fisher install halostatue/fish-direnv@v1.x
 ```
 
 ### System Requirements
