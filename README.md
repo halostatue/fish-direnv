@@ -8,7 +8,7 @@ into fish configuration.
 Install with [Fisher][] (recommended):
 
 ```fish
-fisher install halostatue/fish-direnv@1.x
+fisher install halostatue/fish-direnv@v1.x
 ```
 
 <details>
