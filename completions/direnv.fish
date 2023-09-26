@@ -1,3 +1,5 @@
+# These completions are from https://github.com/halostatue/fish-direnv
+
 complete --erase --command direnv
 
 set -l file_commands allow permit grant block deny revoke edit
