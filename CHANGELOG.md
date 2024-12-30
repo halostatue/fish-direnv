@@ -6,6 +6,8 @@
 
 - Added markers to files for tracing.
 
+- Adam Scott fixed an issue in the README in [#1][#1].
+
 ## 1.1.0 / 2022-06-26
 
 - Added completions for `direnv` public commands. Note that `direnv exec` will
@@ -46,3 +48,5 @@
 ## 1.0.0 / 2019-06-06
 
 - Initial version
+
+[#1]: https://github.com/halostatue/fish-direnv/pull/1
