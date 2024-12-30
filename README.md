@@ -3,23 +3,20 @@
 A quick plugin for [fish shell][] to ensure that [direnv][] is properly hooked
 into fish configuration.
 
+> [!IMPORTANT]
+>
+> As of December 2024, I no longer use [direnv][]. As such, I do not expect to
+> make further updates to this plugin, but will review pull requests as I have
+> time. If you use direnv and wish to maintain this plugin, please reach out
+> through an issue.
+
 ## Installation
 
-Install with [Fisher][] (recommended):
+Install with [Fisher][]:
 
 ```fish
 fisher install halostatue/fish-direnv@1.x
 ```
-
-<details>
-<summary>Not using a package manager?</summary>
-
----
-
-Copy `completions/*.fish` and `conf.d/*.fish` to your fish configuration
-directory preserving the directory structure.
-
-</details>
 
 ### System Requirements
 

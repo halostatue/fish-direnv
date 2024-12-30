@@ -1,6 +1,6 @@
 # MIT Licence
 
-Copyright © 2019–2022 Austin Ziegler
+Copyright © 2019–2024 Austin Ziegler
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in

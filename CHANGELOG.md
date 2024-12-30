@@ -1,5 +1,11 @@
 # fish-direnv Changelog
 
+## 1.1.1 / 2024-12-29
+
+- Updated Code of Conduct to Contributor Covenant 2.1.
+
+- Added markers to files for tracing.
+
 ## 1.1.0 / 2022-06-26
 
 - Added completions for `direnv` public commands. Note that `direnv exec` will
