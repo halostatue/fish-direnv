@@ -1,5 +1,9 @@
 # fish-direnv Changelog
 
+## 1.1.2 / 2025-01-29
+
+- Anay Nayak fixed an issue that I introduced in 1.1.1 in [#3][#3].
+
 ## 1.1.1 / 2024-12-29
 
 - Updated Code of Conduct to Contributor Covenant 2.1.
@@ -50,3 +54,4 @@
 - Initial version
 
 [#1]: https://github.com/halostatue/fish-direnv/pull/1
+[#3]: https://github.com/halostatue/fish-direnv/pull/3

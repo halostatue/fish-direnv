@@ -1,4 +1,4 @@
-# @halostatue/fish-direnv/completions/direnv.fish
+# @halostatue/fish-direnv/completions/direnv.fish:v1.1.2
 
 set --local allow_commands allow grant permit
 set --local deny_commands block deny revoke

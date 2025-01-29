@@ -1,4 +1,4 @@
-# @halostatue/fish-direnv/conf.d/halostatue_fish_direnv.fish
+# @halostatue/fish-direnv/conf.d/halostatue_fish_direnv.fish:v1.1.2
 
 if status is-interactive && command -sq direnv && not functions -q __direnv_export_eval
     direnv hook fish | source
