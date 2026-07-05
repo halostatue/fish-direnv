@@ -1,6 +1,7 @@
 # halostatue/fish-direnv
 
 [![Version][version]](https://github.com/halostatue/fish-direnv/releases)
+[![MIT](https://img.shields.io/badge/licence-MIT-blue?style=for-the-badge "MIT")](https://github.com/halostatue/fish-direnv/blob/main/LICENCE.md)
 
 A quick plugin for [fish shell][fish shell] to ensure that [direnv][direnv] is
 properly hooked into fish configuration.
